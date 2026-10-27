@@ -17,9 +17,11 @@ Helaman 5:12. This verse teaches us to build our foundation on the rock of our R
 Ephesians 2:19–22. This passage describes believers as a building joined together on the cornerstone of Christ. It helped me see the power of working together. The engineers I asked taught me how to use tools like Dokploy and GitHub CI/CD. Because I learned from their experience, I avoided many mistakes in my decisions that I would likely have made on my own. They helped me build on a firmer foundation than I could have built alone. Kubernetes works the same way: its components must cooperate for the whole system to work well. People are also stronger when they build their lives together on Jesus Christ. When I share my struggles and learn alongside others, I can overcome challenges more easily and grow more.
 
 **Personal Goals**
+
 Build a strong foundation in Kubernetes fundamentals before moving to advanced topics like autoscaling.
 Keep learning and patiently seek answers when I don’t understand, in both technical and spiritual matters.
 Improve my ability to work with others by asking for help, sharing what I learn, and supporting them in return.
 
 **Conclusion**
+
 The biggest lesson I learned is that a foundation determines whether we can stand firm and keep growing over time. I want to keep strengthening both my technical knowledge and my faith in Jesus Christ. Just as experienced engineers helped me avoid mistakes, I want to learn to walk alongside others and help them build on a strong foundation too.
